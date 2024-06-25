@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham 👋
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Shubham's+GitHub+Profile)
+![Banner](https://images.unsplash.com/photo-1689896506056-8ddcc17eba33?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHByb2dyYW1taW5nJTIwcXVvdGVzfGVufDB8fDB8fHww)
 
 Welcome to my GitHub profile! I'm excited to share my journey and projects with you. Here's a bit about me:
 
