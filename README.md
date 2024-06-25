@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 - 👯 I’m looking to collaborate on **creative frontend projects**, especially those involving unique designs and user experiences.
 - 🤔 I’m looking for help with **mastering backend technologies** to complement my frontend skills.
 - 💬 Ask me about **frontend development**, **art and craft**, or anything related to **drawing and painting**!
-- 📫 How to reach me: [youremail@example.com](mailto:codemeshubham@gmail.com) | [Instagram](https://instagram.com/shubham_41102)
+- 📫 How to reach me: [Email](mailto:codemeshubham@gmail.com) | [Instagram](https://instagram.com/shubham_41102)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a graduate who loves blending **code** with **creativity**. From crafting beautiful interfaces to sketching intricate designs, I bring a unique perspective to everything I do.
 
@@ -27,11 +27,11 @@ Here's a list of languages and tools I'm proficient in:
 - **Tools:**
   - VS Code ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   - Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  - Photoshop ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+  <!-- Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  - Photoshop ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)-->
 
 ## 🎨 Art Portfolio
-Apart from coding, I love indulging in art. Check out some of my creations [here](#).
+Apart from coding, I love indulging in art. Check out some of my creations [here](https://instagram.com/shubham_41102).
 
 ## 📊 GitHub Stats
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham8077&show_icons=true&theme=radical)
