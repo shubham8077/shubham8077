@@ -1,5 +1,7 @@
 # Hi there, I'm Shubham 👋
 
+![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Shubham's+GitHub+Profile)
+
 Welcome to my GitHub profile! I'm excited to share my journey and projects with you. Here's a bit about me:
 
 - 🔭 I’m currently working on **awesome frontend projects** that combine my passion for art and technology.
@@ -35,11 +37,5 @@ Apart from coding, I love indulging in art. Check out some of my creations [here
 
 ## 📊 GitHub Stats
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham8077&show_icons=true&theme=radical)
-
-## 🌐 Let's Connect
-Feel free to reach out to me if you want to collaborate, chat about tech, or just say hi!
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
 Thanks for visiting my profile, and happy coding! 🎨✨
